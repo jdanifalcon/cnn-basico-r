@@ -208,12 +208,3 @@ Posteriormente ejecutar los scripts en el orden establecido en el repositorio.
 * Dataset MNIST
 
 ---
-
-Si quieres, puedo ahora ayudarte a que el README se vea todavía más profesional con:
-
-* Badges de GitHub
-* Sección de instalación más detallada
-* GIF del modelo entrenando
-* Enlace a diapositivas del taller
-
-Tú dime el nivel de formalidad que quieres proyectar 👀✨

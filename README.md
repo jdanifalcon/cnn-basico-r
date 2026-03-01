@@ -1,7 +1,9 @@
 # 🧠 Redes Neuronales
 
 > 📘 **Repositorio del taller:** *Introducción básica a Redes Neuronales Convolucionales en R*
+> 
 > 👩🏻‍💻 **Autor:** Jessica Daniela Ocaña Falcón
+> 
 > 📅 **Fecha de realización:** Marzo 2026
 
 ---
